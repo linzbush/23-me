@@ -1,0 +1,501 @@
+,Magnitude,Repute,Summary
+Rs1800546(G;G),0,Good,normal
+Rs35769976(G;G),0,Good,"common in clinvar"
+Rs35769976(C;C),0,Good,"common in complete genomics"
+Rs2230782(G;G),0,Good,"common on affy axiom data"
+Rs2230782(C;G),0,,
+Rs2230782(C;C),2,,"0.45x reduced risk for breast cancer"
+I4000163(A;A),2.5,,"P212+,Relevant to haplogroup I (Y-DNA)"
+I4000178(A;A),1,,"P30+,Relevant to haplogroup I1 (Y-DNA)"
+Rs9341296(C;C),0,,M253-
+I4000189(T;T),1,,"P40+,Relevant to haplogroup I1 (Y-DNA)"
+I4000166(G;G),2.5,,"P259+,Relevant to haplogroup I1c (Y-DNA)"
+Rs34626372(C;C),2.5,,"L22+ S142+,Relevant to haplogroup I1d (Y-DNA)"
+Rs34626372(A;A),0,Good,"L22- S142-"
+I4000146(T;T),2.5,,"P109+,Relevant to haplogroup I1d1 (Y-DNA)"
+Rs2631367(G;G),0,Good,Normal
+Rs4054823(T;T),2,Bad,"1.26x higher risk of aggressive form of prostate cancer"
+Rs4054823(C;C),0,,"normal risk of aggressive form of prostate cancer"
+Rs4054823(C;T),0,,"normal risk of aggressive form of prostate cancer"
+Rs4415084(C;C),0,,
+Rs2286963(T;T),0,Good,"common in clinvar"
+Rs3732183(G;G),0,Good,"common in clinvar"
+Rs8050136(A;A),1.4,Bad,"1.4x increased risk for T2D in some populations"
+Rs8050136(C;C),0,,normal
+Rs2237897(T;T),1.4,,"1.4x increased risk for diabetic nephropathy in some populations"
+Rs2237897(C;T),1.2,,"1.2x increased risk for diabetic nephropathy in some populations"
+Rs2237897(C;C),0,,common
+Rs7493(C;C),0,Good,"common in clinvar"
+Rs8099917(T;T),0,Good,common
+Rs8099917(G;G),3,Bad,"lower odds of responding to PEG-IFNalpha/RBV treatment"
+Rs8099917(G;T),2,Bad,"Moderately lower odds of responding to PEG-IFNalpha/RBV treatment"
+Rs56161402(C;C),0,Good,"common in clinvar"
+Rs56161402(T;T),2.5,,"TPMT*8 homozygote; likely issues detoxifying certain drugs"
+Rs56161402(C;T),1.5,,"TPMT*8 heterozygote; possible issues detoxifying certain drugs"
+Rs1800584(G;G),0,Good,"common in complete genomics"
+Rs1800584(A;G),3,Bad,"TPMT*4A heterozygote; possible issues detoxifying certain drugs"
+Rs1800584(A;A),3.5,Bad,"TPMT*4A homozygote; likely issues detoxifying certain drugs"
+Rs28940868(A;C),3,,"Carrier for Pompe disease"
+Rs187116(T;T),0,,
+Rs187116(C;T),1,,"among patients with gastric cancer, risk for more aggressive form?"
+Rs187116(C;C),1,,"among patients with gastric cancer, risk for more aggressive form?"
+Rs28934895(C;C),5,Bad,"Maple syrup urine disease"
+Rs28934895(C;G),2.5,,"carrier for Maple Syrup Urine disease"
+Rs28934895(G;G),0,,normal
+Rs28940279(A;C),3,Bad,"Carrier of a Canavan disease mutation"
+Rs28940574(A;C),3,Bad,"Carrier of a Canavan disease mutation"
+Rs12948217(A;C),3,Bad,"Carrier of a Canavan disease mutation; note issue with microarray data though"
+Rs12948217(A;A),8,Bad,"Canavan disease (predicted); note issue with microarray data though"
+Rs1801175(C;C),0,Good,"common in clinvar"
+Rs1801175(T;T),5,Bad,"Glycogen storage disease, type 1A"
+Rs1801175(C;T),2.5,Bad,"carrier for glycogen storage disease, type 1A"
+Rs1243168(T;T),2.3,Bad,"Somewhat increased risk for chronic rhinosinusitis?"
+Rs16906252(A;A),2,,
+Rs332(TTT;TCT),0.5,,"Heterozygous for F508C variant of cystic fibrosis gene; benign"
+Rs28940871(C;G),3,Bad,"Carrier of a Tay-Sachs mutation"
+Rs3785143(C;T),1,,"may be associated with ADHD"
+Rs3785143(C;C),0,Good,"normal risk of ADHD"
+Rs3785143(T;T),1,,"may be associated with ADHD"
+Rs10468017(T;T),2,Good,"associated with higher HDL cholesterol"
+Rs10468017(C;T),2,Good,"associated with higher HDL cholesterol"
+Rs3764261(T;T),2.5,Good,"associated with higher HDL cholesterol. HDL = good"
+Rs3764261(G;T),2,Good,"associated with higher HDL cholesterol"
+Rs12678919(G;G),2,Good,"associated with higher HDL cholesterol"
+Rs12678919(A;G),2,Good,"associated with higher HDL cholesterol"
+Rs4149274(C;C),1.5,Good,"Associated with higher HDL (good) cholesterol."
+Rs4149274(C;T),1.5,Good,"associated with higher HDL (good) cholesterol"
+Rs4939883(C;C),1.5,Good,"associated with higher HDL cholesterol"
+Rs4939883(C;T),1.5,Good,"associated with higher HDL cholesterol"
+Rs1864163(G;G),2,Good,"associated with higher HDL cholesterol"
+Rs1864163(A;G),2,Good,"associated with higher HDL cholesterol"
+Rs1566439(C;T),2,,"associated with higher HDL cholesterol"
+Rs1566439(C;C),2,,"associated with higher HDL cholesterol"
+Rs261332(A;A),2,Good,"associated with higher HDL cholesterol"
+Rs261332(A;G),2,Good,"associated with higher HDL cholesterol"
+Rs10503669(A;A),2,Good,"associated with higher HDL cholesterol"
+Rs10503669(A;C),2,Good,"associated with higher HDL cholesterol"
+Rs4149268(G;G),2,Good,"associated with higher HDL cholesterol"
+Rs4149268(A;G),2,Good,"associated with higher HDL cholesterol"
+Rs67666821(-;-),0,Good,"common in complete genomics"
+Rs67666821(-;T),2.5,,"CYP3A4*20 carrier; potential side effects from certain drugs"
+Rs67666821(T;T),5,Bad,"CYP3A4*20 homozygote; side effects likely from many drugs"
+Rs4220(G;G),0,Good,"common in clinvar"
+Rs12696304(C;C),0,,
+Rs12696304(C;G),2,Bad,"Prone to aging faster, at least in European populations?"
+Rs12696304(G;G),2,Bad,"Prone to aging faster, at least in European populations?"
+Rs3821236(G;G),0,Good,normal
+Rs3821236(A;A),2.1,Bad,"2x higher risk of lupus"
+Rs3821236(A;G),2,Bad,"1.4x higher risk of lupus"
+Rs2230288(A;G),0.5,,"E326K variant in GBA gene"
+Rs364897(A;A),0,Good,"Unaffected Genotype"
+Rs364897(G;G),1,,"Homozygous for N188S variant of GBA gene"
+Rs364897(A;G),0.5,,"N188S variant of the GBA gene"
+I4000415(C;C),6,Bad,"Gaucher's disease"
+Rs1800932(A;A),0,Good,"common in clinvar"
+Rs2007153(A;A),1.5,Good,"decreased risk of schizophrenia in limited study"
+Rs2007153(A;G),1.5,,"normal risk of schizophrenia in limited study"
+Rs2007153(G;G),1.5,Bad,"increased risk of schizophrenia in limited study"
+Rs2283123(C;C),1,,"normal risk of schizophrenia in limited study"
+Rs2283123(C;T),1,Good,"decreased risk of schizophrenia in limited study"
+Rs2283123(T;T),1,Good,"decreased risk of schizophrenia in limited study"
+Rs464049(C;C),1.5,Good,"decreased risk of schizophrenia in limited study"
+Rs464049(C;T),1.5,Bad,"increased risk of schizophrenia in limited study"
+Rs464049(T;T),1.5,Bad,"increased risk of schizophrenia in limited study"
+Rs11246226(A;A),1,Bad,"increased risk of schizophrenia in limited study"
+Rs11246226(A;C),1.2,Good,"decreased risk of schizophrenia in limited study"
+Rs11246226(C;C),1,Good,"decreased risk of schizophrenia in limited study"
+Rs4331145(A;A),1.5,,"increased risk of schizophrenia in limited study"
+Rs4331145(A;G),1.5,,"decreased risk of schizophrenia in limited study"
+Rs4331145(G;G),0.1,,"increased risk of schizophrenia in limited study"
+Rs4320932(G;G),1.4,Good,"0.74x decreased risk for ovarian cancer"
+Rs4320932(A;G),1.2,Good,"0.87x decreased risk for ovarian cancer"
+Rs4320932(A;A),0,,normal
+Rs1361600(A;A),0,,
+Rs1361600(G;G),2,Bad,"~2x increased risk for adult-onset asthma in Japanese populations"
+Rs13376333(C;C),0,Good,
+Rs13376333(C;T),1.5,Bad,"1.5x higher risk of atrial fibrillation"
+Rs13376333(T;T),2,Bad,"~2x higher risk of atrial fibrillation"
+Rs12536657(A;A),2.5,Bad,"hypermetropia risk - longsightedness"
+Rs53576(A;A),2.8,Bad,"Lack of empathy?"
+Rs28933099(A;A),3,Bad,"Familial Hypertrophic Cardiomyopathy"
+Rs28932774(C;C),3,Bad,"Familial Hypertrophic Cardiomyopathy"
+Rs28933405(T;T),3,Bad,"Familial Hypertrophic Cardiomyopathy"
+Rs28934269(G;G),3,Bad,"Familial Hypertrophic Cardiomyopathy"
+Rs28934270(A;A),3,Bad,"Familial Hypertrophic Cardiomyopathy"
+Rs10509681(T;T),1,Good,"No increased risk of GI bleeding on NSAID drugs"
+Rs10509681(C;C),2,Bad,">1.81x risk of GI bleeding with some NSAID drugs"
+Rs2844682(T;T),3,,
+Rs500760(A;A),0,,
+Rs500760(A;G),0.01,,
+Rs500760(G;G),0.02,,
+Rs10810865(T;T),0,Good,"common on affy axiom data"
+Rs10501293(T;T),0,,
+Rs5030849(A;G),3,Bad,"Carrier of a phenylketonuria mutation"
+Rs5030849(A;A),6,Bad,"PHENYLKETONURIA, MILD"
+Rs28934899(G;G),6,Bad,Phenyketonuria
+Rs1799883(A;A),0,Good,"Two copies of the Thr allele in the FABP2 is associated with significantly increased sensitivity to saturated fats. Also contributes to increased refined carb sensitivity."
+I4000422(A;A),5,Bad,"Maple Syrup Urine Disease Type 1B"
+Rs28940288(G;G),0,Good,"common in complete genomics"
+Rs28940288(A;A),3,Bad,
+Rs6583817(C;C),0,Good,"common in complete genomics"
+Rs6583817(C;T),1,Good,"~0.80x (lower) risk for late onset Alzheimer's disease"
+Rs6583817(T;T),1,Good,"~0.80x (lower) risk for late onset Alzheimer's disease"
+Rs7910977(C;C),0,Good,"common in complete genomics"
+Rs7910977(C;T),1,,"~0.80x (lower) risk for late onset Alzheimer's disease"
+Rs7910977(T;T),1,,"~0.80x (lower) risk for late onset Alzheimer's disease"
+Rs11123857(A;A),0,,
+Rs2273697(A;A),1,Bad,"Adverse reaction more likely to carbamazepine in epileptic patients"
+Rs2273697(A;G),1,Bad,"Adverse reaction more likely to carbamazepine in epileptic patients"
+Rs2273697(G;G),0,Good,normal/common
+Rs6746030(A;G),1,,"reported to influence perception of pain"
+Rs2295190(T;T),1.2,Bad,"Slightly increased risk for ovarian cancer in women"
+Rs2295190(G;T),1.1,Bad,"Slightly increased risk for ovarian cancer in women"
+Rs2295190(G;G),0,Good,common
+Rs1805352(A;A),0,,
+Rs3118523(A;A),0,,
+Rs222020(T;T),0,,
+Rs3118536(C;C),0,,
+Rs10485165(G;G),0,Good,"common on affy axiom data"
+Rs11574010(G;G),0,Good,"common in complete genomics"
+Rs713729(T;T),0,,
+Rs1800471(G;G),0,Good,"common in clinvar"
+Rs2352028(T;T),2,Bad,"Increased risk of lung cancer in non-smokers and never smokers"
+Rs2352028(C;T),2,Bad,
+Rs12021720(C;T),0.05,Good,
+Rs916457(C;C),0,,
+Rs6257(T;T),0,Good,
+Rs5031016(T;T),0,Good,"common in complete genomics"
+Rs5030952(C;C),0,,
+Rs4988234(G;G),0,Good,"common in complete genomics"
+Rs4986883(A;A),0,Good,"common in complete genomics"
+Rs4149015(G;G),0,Good,"common in complete genomics"
+Rs28942114(A;A),0,Good,"common in complete genomics"
+Rs28942070(T;T),0,Good,"common in complete genomics"
+Rs28940581(G;G),0,Good,"common in complete genomics"
+Rs28940577(A;A),0,Good,"common in complete genomics"
+Rs28940304(T;T),0,,
+Rs28940303(A;A),0,,
+Rs28940302(C;C),0,,
+Rs28939715(G;G),0,Good,"common in complete genomics"
+Rs28939698(G;G),0,,
+Rs28937898(G;G),0,Good,"common in complete genomics"
+Rs28937881(G;G),0,Good,"common in complete genomics"
+Rs28936403(G;G),0,Good,"common in complete genomics"
+Rs4730751(A;A),2,,"For kidney donors, 2x more likely to result in allograft rejection"
+Rs4730751(A;C),0,,
+Rs4730751(C;C),0,,
+Rs34911341(C;C),0,Good,"common in clinvar"
+Rs4746(A;A),0,Good,"common in clinvar"
+Rs1801406(A;A),0,Good,"common in clinvar"
+Rs1801406(G;G),0,Good,"benign variant"
+Rs34197769(G;G),0,Good,"common in complete genomics"
+Rs10380(C;C),0,Good,"common in complete genomics"
+Rs3772534(G;G),0,Good,"common in complete genomics"
+Rs1009668(G;G),0,Good,"common in complete genomics"
+Rs11662595(A;A),0,Good,"common on affy axiom data"
+Rs11662595(G;G),2,,
+Rs2070074(A;A),0,Good,"common in clinvar"
+Rs2070074(G;G),1.5,,"harmless ancestral form"
+Rs2229707(G;G),0,Good,"common in complete genomics"
+Rs1801203(C;C),0,Good,"common in complete genomics"
+Rs5030865(C;T),2,,"carrier of one CYP2D6*14 inactive type allele"
+Rs5030865(A;T),2,,"carrier of one CYP2D6*8 and one CYP2D6*14 inactive type alleles"
+Rs1805142(G;G),0,Good,"common in clinvar"
+Rs1801177(G;G),0,Good,"common in clinvar"
+Rs28933072(A;A),2.1,,"Homozygous for Hyperekplexia recessive type"
+Rs28933072(T;T),0,,
+Rs1736557(G;G),0,Good,"common in clinvar"
+Rs1736557(A;A),1.1,,normal?
+Rs1800559(G;G),0,Good,"common in complete genomics"
+Rs1800559(A;A),4,Bad,"susceptibility to malignant hyperthermia"
+Rs56149945(A;A),0,Good,"common in clinvar"
+Rs1802959(G;G),0,Good,"common in complete genomics"
+Rs11558261(G;G),0,Good,"common in complete genomics"
+Rs34276300(A;A),1.5,,"Paternal Haplogroup: R1b1b2a1a2"
+Rs1800576(G;G),0,Good,"common in complete genomics"
+Rs1058396(G;G),1,Good,"Jk(a+/b-) Kidd blood group, barring other variants"
+Rs1058396(A;A),1,Good,"Jk(a-/b+) Kidd blood group, barring other variants"
+Rs1135824(A;A),0,Good,normal
+Rs1135824(A;G),3,,"One copy of CYP2D6*3B non-functioning variant."
+Rs1135824(G;G),4.5,Bad,"Two copies of CYP2D6*3B non-functioning variant"
+I4001456(A;A),3.5,,"Homozygous for CYP2D6*4F non-functioning variant"
+I4001456(A;G),2,,"Carrier of one copy of CYP2D6*4F non-functioning variant."
+I4001456(G;G),0,Good,normal
+I4001467(A;A),3.5,,"Homozygous for CYP2D6*4G non-functioning variant"
+I4001467(A;G),2,,"Carrier of one CYP2D6*4G non-functioning variant"
+I4001467(G;G),0,Good,normal
+Rs28371733(C;C),3,,"Homozygous for non-functioning CYP2D6*4H variant."
+Rs28371733(C;G),2,,"Carrier of one CYP2D6*4H non-functioning variant."
+Rs28371733(A;A),1.5,,"Homozygous for CYP2D6*52 variant."
+Rs28371733(A;G),1,,"Carrier of one CYP2D6*52 variant."
+Rs28371733(G;G),0,Good,normal
+Rs2523608(C;C),0,Good,"common in clinvar"
+Rs2229137(A;A),0,Good,"common in clinvar"
+Rs3751143(T;T),0,Good,"common in clinvar"
+Rs12567232(A;A),2,Bad,"Increased risk for Crohn's Disease"
+Rs12567232(A;G),2,Bad,"Increased risk for Crohn's Disease"
+Rs12567232(G;G),0,Good,normal
+Rs5031017(T;T),2,,"Two copies of CYP2A6*5 non-functioning variant; impaired nicotine metabolism"
+Rs5031017(G;T),1.5,,"One copy of CYP2A6*5 non-functioning variant; impaired nicotine metabolism"
+Rs5031017(G;G),0,,normal
+Rs41298442(A;A),0,Good,"common in clinvar"
+Rs41298442(G;G),5,Bad,"Dystonia (dopa-responsive) from homozygous GCH1 mutation"
+Rs5030858(C;C),0,Good,"common in clinvar"
+Rs5030858(T;T),6,Bad,Phenylketonuria
+Rs2076740(C;C),2,Bad,"2.4-6.1 risk of Autoimmune thyroid disease, if other SNP risk alleles present"
+Rs2076740(T;T),1,,"no increased risk of autoimmune thyroid disease"
+Rs2289681(C;C),0,Good,"common in clinvar"
+Rs73598374(G;G),0,Good,"common in clinvar"
+Rs10411210(T;T),2.1,Bad,"1.15x increased risk of colorectal cancer"
+Rs17847577(C;C),0,Good,normal
+Rs17847577(T;T),7.5,Bad,"Werner's Syndrome"
+Rs17847577(C;T),5,Bad,"Unaffected carrier for Werner's Syndrome"
+Rs10455872(A;A),0,Good,common/normal
+Rs10455872(A;G),2,Bad,"1,51x increased Coronary Heart disease risk"
+Rs10455872(G;G),3,Bad,"2,57x increased Coronary Heart disease risk"
+Rs1007371(T;T),1.2,,"rare genotype."
+Rs1007371(A;A),0,,
+Rs2282679(A;A),0,,normal
+Rs2282679(A;C),1,Bad,"somewhat lower vitamin D levels"
+Rs2282679(C;C),1.5,Bad,"lower vitamin D levels"
+Rs11572080(G;G),1,Good,"No increased risk of GI bleeding on NSAID drugs"
+Rs7861779(T;T),2,,
+Rs10947262(T;T),0,,
+Rs10947262(C;C),1.3,Bad,"1.3x increased risk for osteoarthritis"
+Rs34612342(A;A),0,Good,"common in clinvar"
+Rs34612342(G;G),5,Bad,"increased risk for several cancers"
+Rs11466023(C;T),1.7,Bad,"carrier of a variant related to a mild form of familial Mediterranean fever"
+Rs11466024(A;G),1,,benign
+Rs2070074(A;G),1.2,Good,"harmless ancestral galactosemia variant carrier"
+Rs1050828(A;G),3,Bad,"G6PD deficiency carrier; Hb1Ac value may need adjusting for diabetes diagnosis"
+Rs17107315(C;C),4,Bad,"risk of pancreatitis"
+Rs17107315(C;T),3,Bad,"risk of pancreatitis"
+Rs198846(G;G),0,,
+Rs198846(A;G),2,,
+Rs198846(A;A),3,,
+Rs2070075(T;T),0,Good,"Apparently benign variant"
+Rs2070075(C;T),0,Good,"Apparently benign variant"
+Rs17646946(G;G),0,,
+Rs1393350(G;G),0,Good,"common on affy axiom data"
+Rs1393350(A;G),2,,
+Rs1393350(A;A),3,,
+Rs11803731(A;A),2,,"straighter hair"
+Rs11803731(T;T),2,,"curlier hair"
+Rs4481887(A;G),2,,"more likely to be able to smell asparagus metabolites in urine"
+Rs28933072(A;T),1,,"Carrier of one Hyperekplexia recessive type marker."
+Rs12713559(C;C),0,Good,"common in clinvar"
+Rs1135216(A;A),0,Good,"common in complete genomics"
+Rs1800730(A;A),0,Good,"common in clinvar"
+Rs1800730(T;T),2.6,Bad,"affected by a  mild form of hemochromatosis"
+Rs3856806(C;C),0,Good,"common in clinvar"
+Rs6471(G;G),0,Good,"common in complete genomics"
+Rs6471(T;T),5,Bad,"Congenital adrenal hyperplasia"
+Rs1864325(C;C),0,,
+Rs16892766(A;A),0,Good,"common in complete genomics"
+Rs1127354(A;A),3.2,Bad,"Causative for ITPase deficiency; also, reduces risk of anemia due to ribivarin anti-hepatitis C virus therapy"
+Rs622342(C;C),2,,"influences dosage for Parkinson's patients"
+Rs1414334(C;C),2,,"associated with metabolic syndrome when taking antipsychotics"
+Rs1006737(A;A),1.7,,"increased risk of Bipolar disorder"
+Rs1006737(G;G),0,,
+Rs104886461(A;A),0,Good,normal
+Rs104886461(G;G),8,Bad,"Mucolipidosis type IV"
+I4001386(G;G),0,Good,
+I4001394(G;G),0,Good,
+I4001396(G;G),0,Good,
+I4001397(T;T),0,,
+I4001398(G;G),0,Good,
+I4001401(C;C),0,Good,
+I4001402(G;G),0,,
+I4001412(G;G),0,Good,
+I4001417(G;G),0,Good,
+I4001425(G;G),0,Good,
+I4001426(A;A),0,Good,
+I4001428(A;A),0,Good,
+I4001432(G;G),0,Good,
+I4001433(C;C),0,Good,
+I4001440(G;G),0,Good,
+I4001461(A;A),0,,
+I4001477(G;G),0,Good,
+Rs1065569(G;G),0,Good,"common in complete genomics"
+Rs1058172(G;G),0,Good,"common on affy axiom data"
+Rs1058171(G;G),0,Good,
+I4001501(G;G),0,Good,
+I4001495(G;G),0,Good,
+I4001486(G;G),0,Good,
+I4001483(G;G),0,Good,
+I4001478(C;C),0,Good,
+Rs1080998(C;C),0,Good,
+Rs1081003(C;C),0,Good,"common in complete genomics"
+Rs1081004(G;G),0,Good,"common in complete genomics"
+Rs1135823(G;G),0,Good,
+Rs1135826(T;T),0,Good,"common in complete genomics"
+Rs1135838(T;T),0,,
+Rs1135839(T;T),0,Good,
+I4001460(A;C),0.1,,common
+I4001473(A;G),0.1,,common
+Rs1080983(A;G),0.1,,common
+I3003610(C;C),0,,
+Rs28439001(G;G),0,Good,"common in complete genomics"
+Rs28371736(G;G),0,,
+Rs28371735(G;G),0,,
+Rs28371732(C;C),0,,
+Rs28371723(A;A),0,,
+Rs28371719(C;C),0,,
+Rs28371715(G;G),0,,
+Rs28371710(C;C),0,,
+Rs28371694(G;G),0,,
+Rs1135837(C;C),0,,
+Rs1135835(T;T),0,,
+Rs1135833(G;G),0,,
+Rs1135832(C;C),0,,
+Rs1135829(T;T),0,,
+Rs1135825(G;G),0,,
+Rs1080993(C;C),0,,
+Rs1080992(C;C),0,,
+Rs1080990(C;C),0,,
+Rs1080984(A;A),0,,
+I4001499(A;A),0,Good,
+I4001497(I;I),0,,
+I4001494(T;T),0,Good,
+I4001490(C;C),0,Good,
+I4001489(D;D),0,Good,
+I4001488(G;G),0,Good,
+I4001480(C;C),0,Good,
+I4001476(C;C),0,,
+I4001474(C;C),0,Good,
+I4001472(G;G),0,Good,
+I4001471(C;C),0,Good,
+I4001468(C;C),0,Good,
+I4001466(T;T),0,Good,
+I4001464(G;G),0,,
+I4001459(I;I),0,Good,
+I4001454(C;C),0,Good,
+I4001452(T;T),0,Good,
+I4001442(I;I),0,Good,
+I4001438(C;C),0,Good,
+I4001436(C;C),0,Good,
+I4001434(T;T),0,Good,
+I4001423(T;T),0,Good,
+I4001421(C;C),0,Good,
+I4001420(I;I),0,,
+I4001419(G;G),0,Good,
+I4001416(G;G),0,Good,
+I4001414(C;C),0,,
+I4001413(C;C),0,Good,
+Rs9623532(G;G),0,Good,
+Rs5758598(G;G),0,Good,"common in complete genomics"
+Rs5030866(C;C),0,,
+Rs35046171(G;G),0,,
+Rs35029149(I;I),0,,
+Rs34898711(I;I),0,,
+Rs34291018(T;T),0,Good,"common in complete genomics"
+Rs34167214(A;A),0,,
+Rs28624811(G;G),0,Good,
+Rs28448769(G;G),0,Good,"common in complete genomics"
+I4001411(C;C),0,Good,
+I4001409(C;C),0,Good,
+I4001404(T;T),0,Good,
+I4001403(G;G),0,,
+I4001400(A;A),0,Good,
+I4001391(C;C),0,Good,
+I4001388(C;C),0,,
+I4001387(C;C),0,Good,
+I4000487(D;D),0,,
+I4000452(I;I),0,Good,
+Rs2352028(C;C),0,,
+Rs57424749(G;G),0,Good,normal
+Rs57424749(C;C),3,,"homozygote for pachyonychia congenita Type I mutation"
+Rs57424749(C;G),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs59349773(A;A),0,Good,normal
+Rs59349773(C;C),3,,"homozygote for pachyonychia congenita Type I mutation"
+Rs59349773(A;C),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs58293603(T;T),0,Good,normal
+Rs58293603(G;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs58293603(G;G),3,,"homozygote for pachyonychia congenita Type I mutation"
+Rs59328451(A;A),0,Good,normal
+Rs59328451(T;T),3,,"homozygote for pachyonychia congenita Type I mutation"
+Rs59328451(A;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs28928894(C;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs28928895(A;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs28933087(G;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs60554162(G;G),0,Good,normal
+Rs60554162(A;A),3,,"homozygote for pachyonyitia congenita Type I mutation"
+Rs60554162(A;G),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs57052654(T;T),0,Good,normal
+Rs57052654(G;T),3,,"heterozygote for pachyonychia congenita Type I mutation"
+Rs57052654(G;G),3,,"homozygote for pachyonychia congenita Type I mutation"
+Rs104886461(A;G),3,Bad,"Carrier of mucolipidosis type IV mutation"
+Rs11676382(C;C),0,Good,"common in clinvar"
+Rs3131296(G;G),1.4,Bad,"1.4x increased risk for schizophrenia"
+Rs3131296(A;G),1.2,Bad,"1.2x increased risk for schizophrenia"
+Rs3131296(A;A),0,Good,"normal risk for developing schizophrenia"
+Rs9960767(C;C),1.4,Bad,"1.4x increased risk for schizophrenia"
+Rs9960767(A;C),1.2,Bad,"1.2x increased risk for schizophrenia"
+Rs9960767(A;A),0,Good,normal
+Rs1126497(C;C),0,,normal
+Rs1126497(C;T),1.4,Bad,"1.4x increased risk for breast cancer"
+Rs1126497(T;T),1.4,Bad,"1.4x increased risk for breast cancer"
+Rs1344706(T;T),1.2,Bad,"1.2x increased risk for schizophrenia"
+Rs1344706(G;T),1.1,Bad,"1.1x increased risk for schizophrenia"
+Rs1344706(G;G),0,,normal
+Rs28940577(A;G),3,Bad,"carrier of a Familial Mediterranean Fever allele"
+Rs28940577(G;G),3,Bad,"Familial Mediterranean Fever risk"
+Rs1800730(A;T),2.1,Bad,"carrier for a mild form of hemochromatosis"
+Rs35887622(A;A),0,Good,"normal hearing"
+Rs28937589(G;G),0,Good,"common in complete genomics"
+Rs28939690(A;A),0,,
+Rs726640(C;C),0,Good,"common in complete genomics"
+Rs1566667(G;G),0,,
+Rs1027557(A;A),0,,
+Rs1268524(A;A),0,,
+Rs648298(A;A),0,,
+Rs1027557(A;G),0.1,,"heterozygosity seems common"
+Rs35887622(G;G),3,Bad,"Variant of unclear significance wrt deafness"
+Rs1268524(G;G),0.1,,
+Rs1268524(A;G),0.2,,
+Rs1566667(A;A),0,,
+Rs1566667(A;G),0,,
+Rs648298(A;G),0,,
+Rs648298(G;G),0,,
+Rs8176743(G;G),0,,
+Rs8176746(C;C),0,,
+Rs8176749(G;G),0,,
+Rs1053878(C;C),0,Good,"common in complete genomics"
+I4000504(C;C),0,,
+I4000505(G;G),0,Good,
+Rs41302905(C;C),0,Good,"common in complete genomics"
+Rs8176747(G;G),0,Good,"common in clinvar"
+Rs8176740(T;T),0,,
+Rs1799913(C;C),1.1,Bad,"Hispanics may be at increased risk of heroin addiction."
+Rs1799978(A;A),0,Good,"common in clinvar"
+Rs694066(G;G),0,Good,"common in complete genomics"
+Rs12364283(A;A),0,Good,"common in complete genomics"
+Rs1534891(C;C),0,,
+Rs547154(C;C),0,,normal
+Rs3766404(T;T),0,,
+Rs429608(G;G),0,Good,"common in complete genomics"
+Rs3753396(A;A),0,Good,"common in clinvar"
+Rs529825(C;C),0,,
+Rs3118470(T;T),0,,
+Rs6587852(C;C),0,,
+Rs742710(G;G),0,,
+Rs855913(G;G),0,Good,"common in complete genomics"
+Rs16856202(T;T),0,Good,"common in complete genomics"
+Rs7702057(G;G),0,Good,"common in complete genomics"
+Rs11241713(C;C),0,,
+Rs2619566(T;T),0,,
+Rs10438933(A;A),0,,
+Rs2306677(C;C),0,,
+Rs12413409(G;G),0,,
+Rs9298506(A;A),0,Bad,"~1.46x increased risk of aneurysm"
+Rs9315204(C;C),0,,
+Rs868(A;A),0,Good,"common in clinvar"
+Rs10508517(G;G),0,,
+Rs1055419(G;G),0,Good,"common in complete genomics"
+Rs1004467(T;T),0,,
+Rs2681472(T;T),0,,
+Rs2681492(A;A),0,,
+Rs935334(C;C),0,Good,"common in complete genomics"
+Rs1047972(G;G),0,Good,common/normal
+Rs5031002(G;G),0,Good,"common on affy axiom data"
+Rs1800961(C;C),0,Good,"common in complete genomics"

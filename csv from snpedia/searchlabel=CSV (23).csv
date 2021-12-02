@@ -1,0 +1,501 @@
+,Magnitude,Repute,Summary
+Rs56244447(C;C),2.5,Bad,"CYP3A5*3D homozygote; nonexpressor for CYP3A5"
+Rs28365085(C;C),2.5,Bad,"CYP3A5*3F homozygote; nonexpressor for CYP3A5"
+Rs45593941(C;C),2.5,Bad,"CYP3A5*3F homozygote; nonexpressor for CYP3A5"
+Rs41279857(T;T),2.5,Bad,"CYP3A5*S100Y homozygote; nonexpressor for CYP3A5"
+Rs28383468(T;T),2.5,Bad,"CYP3A5*H30Y homozygote; nonexpressor for CYP3A5"
+Rs28365083(A;C),2,,"carrier of one CYP3A5*2 allele"
+Rs776746(A;G),2,,"carrier of 1 nonfunctional CYP3A5 allele; drug metabolism affects"
+Rs10264272(C;T),0,,"carrier of a silent polymorphism in CYP3A5"
+Rs41303343(-;T),2,,"carrier of one CYP3A5*7 allele"
+Rs55817950(A;G),2,,"carrier of one CYP3A5*8 allele"
+Rs28383479(A;G),2,,"carrier of one CYP3A5*9 allele"
+Rs41279854(A;G),2,,"carrier of one CYP3A5*10 allele"
+Rs72552791(A;G),2,,"carrier of one CYP3A5*11 allele"
+Rs56244447(A;C),2,,"carrier of one CYP3A5*3D allele"
+Rs28365085(C;T),2,,"carrier of one CYP3A5*3F allele"
+Rs45593941(C;T),2,,"carrier of one CYP3A5*3F allele"
+Rs41279857(G;T),2,,"carrier of one CYP3A5*S100Y allele"
+Rs28383468(C;T),2,,"carrier of one CYP3A5*H30Y allele"
+Rs56411402(C;T),2,,"carrier of one CYP3A5*4 allele"
+Rs2070672(A;A),0,Good,normal
+Rs4646976(A;A),0,Good,normal
+Rs6413419(G;G),0,Good,normal
+Rs915909(G;G),0,,
+Rs2070676(C;C),0,Good,normal
+Rs2031920(C;C),0,Good,normal
+Rs6413420(G;G),0,Good,normal
+Rs915909(C;C),0,Good,normal
+Rs3813867(G;G),0,Good,normal
+Rs2515641(C;C),0,Good,normal
+Rs2070673(T;T),0,Good,normal
+Rs1042580(A;A),0,Good,"common in clinvar"
+Rs28935207(A;A),0,,
+Rs28935208(T;T),0,,
+Rs28935212(G;G),0,,
+Rs28935213(C;C),0,,
+Rs28936083(A;A),0,,
+Rs28936968(T;T),0,,
+Rs28936969(G;G),0,,
+Rs28936970(C;C),0,,
+Rs28937268(C;C),0,,
+Rs28937269(A;A),0,,
+Rs28937270(T;T),0,,
+Rs28937274(T;T),0,,
+Rs28937275(A;A),0,,
+Rs28937276(G;G),0,,
+Rs28937277(C;C),0,,
+Rs28937279(G;G),0,,
+Rs28937280(A;A),0,,
+Rs28937281(A;A),0,,
+Rs28937283(T;T),0,,
+Rs28937290(G;G),0,,
+Rs28937292(C;C),0,,
+Rs28937293(C;C),0,,
+Rs28937295(G;G),0,,
+Rs28937296(G;G),0,,
+Rs28937297(C;C),0,,
+Rs28937298(C;C),0,,
+Rs28937303(G;G),0,,
+Rs28937304(C;C),0,,
+Rs28937307(G;G),0,,
+Rs28937308(A;A),0,,
+Rs28935205(T;T),0,,
+Rs28935206(T;T),0,,
+Rs28935215(A;A),0,,
+Rs28937273(T;T),0,,
+Rs28937288(G;G),0,,
+Rs28937305(G;G),0,,
+Rs28937306(C;C),0,,
+Rs28935214(C;C),0,,
+Rs28937284(G;G),0,,
+Rs28935207(C;C),3,,
+Rs28935208(G;G),3,,
+Rs28935212(T;T),3,,
+Rs28935213(T;T),3,,
+Rs28936083(G;G),3,,
+Rs28936968(C;C),3,,
+Rs28936969(A;A),3,,
+Rs28936970(T;T),3,,
+Rs28937268(T;T),3,,
+Rs28937269(G;G),3,,
+Rs28937270(C;C),3,,
+Rs28937274(C;C),3,,
+Rs28937275(G;G),3,,
+Rs28937276(A;A),3,,
+Rs28937277(T;T),3,,
+Rs28937279(A;A),3,,
+Rs28937280(G;G),3,,
+Rs28937281(G;G),3,,
+Rs28937283(C;C),3,,
+Rs28937290(A;A),3,,
+Rs28937292(A;A),3,,
+Rs28937293(T;T),3,,
+Rs28937296(T;T),3,,
+Rs28937298(T;T),3,,
+Rs28935214(T;T),3,,
+Rs28937284(T;T),3,,
+Rs28933668(T;T),5.5,Bad,"Hemophilia A (severity varies)"
+Rs28937295(A;A),3,,
+Rs28937297(T;T),3,,
+Rs28937303(A;A),3,,
+Rs28937304(T;T),3,,
+Rs28937307(T;T),3,,
+Rs28937308(G;G),3,,
+Rs28935214(C;T),2.5,,
+Rs28937284(G;T),2.5,,
+Rs28933668(C;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933669(C;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933670(G;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933671(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933672(G;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933673(A;G),2.5,,
+Rs28933674(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933675(C;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933676(A;C),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933677(C;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933679(A;G),2.5,,
+Rs28933681(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28933682(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28935207(A;C),2.5,,
+Rs28935208(G;T),2.5,,
+Rs28935212(G;T),2.5,,
+Rs28935213(C;T),2.5,,
+Rs28936083(A;G),2.5,,
+Rs28936968(C;T),2.5,,
+Rs28936969(A;G),2.5,,
+Rs28936970(C;T),2.5,,
+Rs28937268(C;T),2.5,,
+Rs28937269(A;G),2.5,,
+Rs28937270(C;T),2.5,,
+Rs28937272(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28937274(C;T),2.5,,
+Rs28937275(A;G),2.5,,
+Rs28937276(A;G),2.5,,
+Rs28937277(C;T),2.5,,
+Rs28937279(A;G),2.5,,
+Rs28937280(A;G),2.5,,
+Rs28937281(A;G),2.5,,
+Rs28937282(C;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28937283(C;T),2.5,,
+Rs28937285(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28937287(G;T),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28937289(A;G),3.5,Bad,"Carrier of a Hemophilia A mutation"
+Rs28937290(A;G),2.5,,
+Rs28937292(A;C),2.5,,
+Rs28937293(C;T),2.5,,
+Rs28937295(A;G),2.5,,
+Rs28937296(G;T),2.5,,
+Rs28937297(C;T),2.5,,
+Rs28937298(C;T),2.5,,
+Rs28937303(A;G),2.5,,
+Rs28937304(C;T),2.5,,
+Rs28937307(G;T),2.5,,
+Rs28937308(A;G),2.5,,
+Rs3135388(C;C),0,Good,normal
+Rs3135388(T;T),2,Bad,"3-6x higher risk of multiple sclerosis"
+Rs3135388(C;T),1.8,Bad,"3x higher risk of multiple sclerosis"
+Rs1800255(G;G),0,Good,normal
+Rs1800255(A;A),2.5,Bad,"increased risk for pelvic organ prolapse"
+Rs12720461(C;C),0,Good,normal
+Rs2069526(T;T),0,Good,normal
+Rs28399424(C;C),0,Good,normal
+Rs2470890(T;T),0,Good,normal
+Rs2740574(A;A),0,Good,normal
+Rs5030865(C;C),1,Good,normal
+Rs5030655(-;-),3,,"CYP2D6*6 poor metabolizer phenotype"
+Rs72558187(T;T),0,Good,normal
+Rs72558189(G;G),0,Good,normal
+Rs72558189(A;A),2.5,Bad,"CYP2C9*14 homozygote"
+Rs6356(G;G),0,Good,"common in clinvar"
+Rs1057909(A;A),0,Good,normal
+Rs2017319(C;C),0,Good,normal
+Rs2256871(T;T),0,Good,normal
+Rs7900194(G;G),0,Good,normal
+Rs9332130(A;A),0,Good,normal
+Rs9332239(C;C),0,Good,normal
+Rs1057911(A;A),0,Good,normal
+Rs5030867(A;A),0,Good,normal
+Rs5030865(A;A),2,,"CYP2D6*8 inactive type homozygote"
+Rs5030862(G;G),0,Good,normal
+Rs28371725(G;G),0,Good,normal
+Rs16947(G;G),0,,normal
+Rs4570625(T;T),0,,normal
+Rs3762271(C;C),0,Good,"common in clinvar"
+Rs5030655(T;T),0,Good,normal
+Rs5030656(AAG;AAG),0,Good,normal
+Rs5030656(-;AAG),2,,"carrier of one CYP2D6*9 allele"
+Rs5030656(-;-),2,,"CYP2D6*9 homozygote"
+Rs1385699(T;T),2,Bad,"increased risk of baldness"
+Rs1385699(C;C),1.5,Good,"slightly less likely to go bald"
+Rs1799945(C;C),0,Good,"Not a H63D hemochromatosis carrier."
+Rs1799945(G;G),4,Bad,"Two copies of H63D, likely affected by mild form of hemochromatosis"
+Rs1799945(C;G),3,Bad,"One copy of H63D, carrier of hemochromatosis, likely unaffected unless also C282Y carrier."
+Rs9332131(A;A),0,Good,normal
+Rs7181866(G;G),3,,
+Rs12255372(T;T),2.2,Bad,"slight increases (~1.5x) in risk for type-2 diabetes and possibly breast cancer and aggressive prostate cancer"
+Rs1799929(C;C),0,,
+Rs3740066(G;G),0,Good,average
+Rs3918290(G;G),0,Good,"common in complete genomics"
+Rs1041983(C;C),0,Good,"common in clinvar"
+Rs2287622(T;T),0,Good,normal
+Rs1041988(T;T),0,Good,normal
+Rs12721634(T;T),0,Good,normal
+Rs28371759(T;T),0,Good,normal
+Rs3091339(A;A),0,Good,normal
+Rs3208361(A;A),0,Good,normal
+Rs3208363(T;T),0,Good,normal
+Rs3842(A;A),0,,
+Rs4986908(G;G),0,Good,normal
+Rs4986909(C;C),0,Good,normal
+Rs4986910(T;T),0,Good,normal
+Rs4986913(C;C),0,Good,normal
+Rs4987161(T;T),0,Good,normal
+Rs9934438(G;G),0,Good,"common in clinvar"
+Rs2066853(G;G),0,,
+Rs2267668(A;A),0,,
+Rs4474514(A;A),1.8,Bad,">3x increased testicular cancer risk for men"
+Rs4474514(G;G),1.2,Good,normal
+Rs3782179(T;T),1.5,Bad,"common, but increased risk of testicular cancer"
+Rs3782179(C;C),2.5,Good,"9x lower odds of testicular cancer"
+Rs4324715(T;T),1,,"Normal risk of testicular cancer."
+Rs4324715(C;C),1.2,Bad,">1.5x increased testicular cancer risk for men"
+Rs6897876(C;C),1.2,Bad,"slight increase in testicular cancer risk for men"
+Rs6897876(T;T),0,Good,normal
+Rs3827760(T;T),0,Good,"common in clinvar"
+Rs3827760(C;C),2,,"straighter, thicker hair, and increased odds of having shovel-shaped incisors"
+Rs1333048(C;C),2.1,Bad,"1.5x increased coronary artery disease risk; 2x increased periodontitis risk"
+Rs1333048(A;A),0,Good,normal
+Rs12536657(G;G),0,Good,
+Rs631090(T;T),0,,
+Rs17501108(G;G),0,,
+Rs16960620(A;A),0,Good,"common in complete genomics"
+Rs143383(T;T),1.8,Bad,"1.3x increased risk for osteoarthritis"
+Rs143383(C;C),0,Good,"normal risk for osteoarthritis"
+Rs143383(C;T),1.2,Bad,"1.1x increased risk for osteoarthritis"
+Rs1800454(A;G),1.3,,carrier
+Rs2200733(T;T),3,Bad,"1.5x increased risk of Atrial Fibrillation and ischemic stroke."
+Rs2200733(C;T),3,Bad,"1.4x increased risk of Atrial Fibrillation and ischemic stroke."
+Rs1804495(G;T),0.1,,
+Rs2231142(A;A),3.5,Bad,"causes gout"
+Rs8177374(C;C),0,Bad,"very common, but it seems better to have the minor allele which is protective against several diseases"
+Rs8177374(T;T),3.5,Good,"resistance to several diseases"
+Rs11614913(C;C),2,Bad,"Somewhat increased risk of various types of cancer"
+Rs2910164(C;C),2.5,Bad,"higher cancer risk ? (ambiguous flip)"
+Rs2910164(G;G),0,Good,normal
+Rs8177400(G;G),0,Good,"common in complete genomics"
+Rs8177400(A;A),3,,
+Rs6152(G;G),0.5,,"able to go bald"
+Rs6152(A;G),2,,"Increased risk of baldness"
+Rs6152(A;A),4,Good,"won't go bald"
+I3003137(A;A),4,Bad,"Sickle Cell Anemia"
+I3003137(A;T),3.5,Bad,"Sickle Cell Anemia carrier; malaria resistance"
+I3003137(T;T),0,Good,normal
+Rs17580(A;T),2.3,Bad,"Carrier of one PiS variant; slight chance of Alpha-1 Antitrypsin Deficiency"
+Rs28929474(A;G),3,Bad,"Carrier for Alpha-1 Antitrypsin Deficiency"
+Rs4986893(A;G),2,,"carrier of a CYP2C19*3 allele, a ""slow metabolizer"" allele"
+Rs28399504(A;G),2,,"carrier of a CYP2C19*4 allele, considered a ""slow metabolizer"" variant"
+Rs41291556(C;C),3,,"CYP2C19*8 homozygote"
+Rs41291556(C;T),2,,"carrier of one CYP2C19*8 allele, considered a ""slow metabolizer"""
+Rs1805010(A;A),0,Good,"common in clinvar"
+Rs72559710(G;G),0,,normal
+Rs28939703(T;T),0,,
+Rs28939691(G;G),0,,
+Rs28939669(G;G),0,,
+Rs28939368(A;A),0,,
+Rs28939095(G;G),0,,
+Rs28939090(C;C),0,,
+Rs28938471(G;G),0,,
+Rs28937323(G;G),0,,
+Rs28936411(G;G),0,,
+Rs28936400(T;T),0,,
+Rs28936386(T;T),0,,
+Rs28936380(C;C),0,Good,"common in clinvar"
+Rs28934903(A;A),0,,
+Rs28934883(G;G),0,,
+Rs28933978(C;C),0,,
+Rs28933968(A;A),0,,
+Rs28933097(C;C),0,,
+Rs28933075(C;C),0,,
+Rs28933073(C;C),0,,
+Rs28932768(G;G),0,,
+Rs28930073(G;G),0,,
+Rs28929499(G;G),0,,
+Rs28929472(A;A),0,,
+Rs28928887(G;G),0,Good,"common in complete genomics"
+Rs28942068(C;G),2,,
+Rs28939716(C;G),2,,
+Rs35742686(A;A),0,Good,normal
+Rs57081121(G;G),0,,"not a CYP2C19*3 carrier"
+Rs28940305(T;T),0,Good,"common in complete genomics"
+Rs55964869(C;C),0,Good,"common in complete genomics"
+Rs8176750(C;C),0,Good,"common in complete genomics"
+Rs17334242(A;A),0,,
+Rs2280090(C;C),0,,
+Rs17859515(G;G),0,,
+Rs332(TTT;TTT),0,Good,"normal form"
+Rs34210653(C;C),0,Good,"normal risk"
+Rs28935201(G;G),0,,
+Rs28935204(G;G),0,,
+Rs28935209(A;A),0,,
+Rs28935211(A;A),0,,
+Rs28935216(G;G),0,,
+Rs28937271(G;G),0,,
+Rs28937278(C;C),0,,
+Rs28937291(C;C),0,,
+Rs28937299(T;T),0,,
+Rs28937300(C;C),0,,
+Rs28937301(A;A),0,,
+Rs28937302(G;G),0,,
+Rs17857727(G;G),0,,
+Rs35908728(C;C),0,,
+Rs1143679(G;G),0,Good,normal
+Rs17856511(A;A),0,,
+Rs33949390(G;G),0,Good,normal
+Rs2870983(G;G),0,,
+Rs4894(A;A),0,,normal
+Rs16859834(C;C),0,,
+Rs8052394(A;A),0,,
+Rs1800422(G;G),0,,
+Rs17882687(A;A),0,Good,normal
+Rs55640102(A;A),0,Good,normal
+Rs55752064(T;T),0,Good,normal
+Rs58973490(G;G),0,Good,normal
+Rs72552267(G;G),0,Good,normal
+Rs56165452(T;T),0,Good,normal
+Rs67807361(C;C),0,Good,normal
+Rs72558190(C;C),0,Good,normal
+Rs55897648(G;G),0,Good,normal
+Rs2032618(G;G),0,,
+Rs3212291(C;C),0,,
+Rs3211371(C;C),0,Good,"common in complete genomics"
+Rs45614732(C;C),0,,
+Rs34693726(C;C),0,Good,"common in complete genomics"
+Rs34230288(G;G),0,Good,"common on affy axiom data"
+Rs1800561(C;C),0,Good,"common in complete genomics"
+Rs35142681(C;C),0,Good,"common in complete genomics"
+Rs3765187(C;C),0,,
+Rs7418956(C;C),0,,
+Rs11083750(C;C),0,Good,"common in complete genomics"
+Rs1135728(G;G),0,Good,"common in complete genomics"
+Rs11557488(G;G),0,Good,"common in clinvar"
+Rs12329790(T;T),0,,
+Rs13336129(A;A),0,,
+Rs28939095(C;G),2,,
+Rs28939095(C;C),3,,
+Rs28929472(A;T),2,,
+Rs28929472(T;T),3,,
+Rs28932768(C;G),2,,
+Rs28932768(C;C),3,,
+Rs28933073(C;G),2,,
+Rs28933073(G;G),3,,
+Rs28936386(A;T),2,,
+Rs28936386(A;A),3,,
+Rs28937899(C;G),2,,
+Rs28937899(G;G),3,,
+Rs28938471(C;G),2,,
+Rs28938471(C;C),3,,
+Rs165688(G;G),0,,
+Rs17015215(G;G),0,,
+Rs17241062(C;C),0,,
+Rs17241090(C;C),0,,
+Rs17407754(G;G),0,,
+Rs17513769(T;T),0,,
+Rs17845454(A;A),0,,
+Rs17847042(A;A),0,,
+Rs17851360(A;A),0,,
+Rs17855902(C;C),0,,
+Rs17856968(A;A),0,,
+Rs17858963(G;G),0,,
+Rs17860404(G;G),0,,
+Rs17876142(C;C),0,,
+Rs2228325(C;C),2.1,,"better performing muscles"
+Rs2734830(G;G),0,,
+Rs2870984(C;C),0,,
+Rs28928869(A;A),0,Good,"common in complete genomics"
+Rs28928888(T;T),0,Good,"common in complete genomics"
+Rs28929475(G;G),0,,
+Rs28929477(G;G),0,,
+Rs28929481(A;A),0,,
+Rs28929482(T;T),0,,
+Rs28929490(A;A),0,,
+Rs28929492(C;C),0,,
+Rs28929493(C;C),0,,
+Rs28929494(G;G),0,,
+Rs28929496(G;G),0,,
+Rs28929501(G;G),0,,
+Rs28930070(G;G),0,,
+Rs28930071(T;T),0,,
+Rs28930075(A;A),0,,
+Rs28930970(G;G),0,,
+Rs28930971(C;C),0,,
+Rs17856195(C;C),0,,
+Rs28930973(C;C),0,,
+Rs28930977(C;C),0,,
+Rs28931571(G;G),0,,
+Rs28931587(G;G),0,,
+Rs28933069(G;G),0,,
+Rs28933070(G;G),0,,
+Rs28933071(G;G),0,,
+Rs28933078(A;A),0,Good,"common in complete genomics"
+Rs28933085(A;A),0,,
+Rs28933099(G;G),0,,
+Rs28934896(A;A),0,,
+Rs28933992(G;G),0,,
+Rs28933995(T;T),0,,
+Rs28933996(C;C),0,,
+Rs28933998(C;C),0,,
+Rs28934000(C;C),0,,
+Rs28934004(G;G),0,,
+Rs28934005(C;C),0,,
+Rs28934271(G;G),0,,
+Rs28934868(G;G),0,,
+Rs28934870(A;A),0,,
+Rs28934276(T;T),0,,
+Rs28934869(C;C),0,,
+Rs28934879(G;G),0,,
+Rs28934871(C;C),0,,
+Rs28934881(A;A),0,,
+Rs28934884(T;T),0,,
+Rs28933999(G;G),0,,
+Rs28933380(T;T),0,Good,
+Rs28933393(C;C),0,,
+Rs28933980(G;G),0,,
+Rs28933982(C;C),0,,
+Rs28933983(T;T),0,,
+Rs28933404(G;G),0,,
+Rs28933686(T;T),0,Good,"common in complete genomics"
+Rs28933974(G;G),0,,
+Rs28934898(C;C),0,,
+Rs28934900(C;C),0,,
+Rs28935179(G;G),0,,
+Rs28935182(C;C),0,,
+Rs28935189(A;A),0,,
+Rs28934901(C;C),0,,
+Rs28934902(G;G),0,,
+Rs28935190(G;G),0,,
+Rs28935768(T;T),0,,
+Rs28936074(C;C),0,,
+Rs28936075(G;G),0,,
+Rs28936073(G;G),0,,
+Rs28936078(C;C),0,,
+Rs28936372(A;A),0,,
+Rs28936377(G;G),0,,
+Rs28936384(G;G),0,,
+Rs28936393(G;G),0,,
+Rs28936398(G;G),0,,
+Rs28936404(C;C),0,,
+Rs28936405(C;C),0,,
+Rs28936410(G;G),0,Good,"common in complete genomics"
+Rs28936412(T;T),0,,
+Rs28936414(G;G),0,,
+Rs28937309(G;G),0,,
+Rs28936972(A;A),0,,
+Rs28937310(T;T),0,,
+Rs28937311(A;A),0,,
+Rs28937570(G;G),0,,
+Rs28937888(G;G),0,Good,"common in complete genomics"
+Rs28937577(A;A),0,Good,"common in complete genomics"
+Rs28938470(G;G),0,,
+Rs28938475(G;G),0,,
+Rs28935175(G;G),0,,
+Rs28939096(T;T),0,,
+Rs28939384(G;G),0,,
+Rs28939671(C;C),0,,
+Rs28939673(G;G),0,,
+Rs28939098(A;A),0,,
+Rs28939674(G;G),0,,
+Rs28939676(C;C),0,,
+Rs28939678(T;T),0,,
+Rs28939682(A;A),0,,
+Rs28939686(T;T),0,,
+Rs28939704(C;C),0,,
+Rs28939705(A;A),0,,
+Rs28939380(T;T),0,,
+Rs28939706(G;G),0,,
+Rs28940277(G;G),0,,
+Rs28940299(C;C),0,,
+Rs28940587(G;G),0,,
+Rs28940873(C;C),0,,
+Rs28942086(A;A),0,Good,"common in complete genomics"
+Rs29001567(C;C),0,,
+Rs2904551(T;T),0,,
+Rs3180383(C;C),0,,
+Rs45438698(G;G),0,,common
+Rs45477792(C;C),0,,common
+Rs460897(C;C),0,,
+Rs28939100(C;C),0,,
+Rs15793179(A;A),6,Good,"normal, for chickens"
+Rs15793179(A;C),6,,"carrier, also a chicken"
+Rs15793179(C;C),6,Bad,"deadly mutation for chickens"
+Rs5219(C;T),1.5,Bad,"1.3x increased risk for type-2 diabetes"
+Rs2241880(C;T),1.5,Bad,"1.4x increased risk for Crohn's disease in Caucasians"
+Rs13361189(C;C),2.6,Bad,"2.6x increased risk for Crohn's disease"
+Rs13361189(C;T),1.3,Bad,"1.3x increased risk for Crohn's disease"
+Rs13361189(T;T),0,Good,normal
+Rs4958847(A;A),2.6,Bad,"2.6x increased risk for Crohn's disease"
+Rs4958847(A;G),1.3,Bad,"1.3x increased risk for Crohn's disease"
+Rs4958847(G;G),0,Good,normal
+Rs4474514(A;G),1.8,Bad,"3x increased testicular cancer risk for men"
+Rs3732378(G;G),0,Good,"common on affy axiom data"
+Rs3732378(A;A),2,Bad,"more rapid progression to full-blown AIDS and probably increased susceptibility to HIV infection"
